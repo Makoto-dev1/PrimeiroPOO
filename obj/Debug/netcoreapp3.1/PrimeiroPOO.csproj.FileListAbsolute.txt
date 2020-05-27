@@ -1,0 +1,13 @@
+I:\Users\Makoto-dev\Documents\GitHub\PrimeiroPOO\bin\Debug\netcoreapp3.1\PrimeiroPOO.exe
+I:\Users\Makoto-dev\Documents\GitHub\PrimeiroPOO\bin\Debug\netcoreapp3.1\PrimeiroPOO.deps.json
+I:\Users\Makoto-dev\Documents\GitHub\PrimeiroPOO\bin\Debug\netcoreapp3.1\PrimeiroPOO.runtimeconfig.json
+I:\Users\Makoto-dev\Documents\GitHub\PrimeiroPOO\bin\Debug\netcoreapp3.1\PrimeiroPOO.runtimeconfig.dev.json
+I:\Users\Makoto-dev\Documents\GitHub\PrimeiroPOO\bin\Debug\netcoreapp3.1\PrimeiroPOO.dll
+I:\Users\Makoto-dev\Documents\GitHub\PrimeiroPOO\bin\Debug\netcoreapp3.1\PrimeiroPOO.pdb
+I:\Users\Makoto-dev\Documents\GitHub\PrimeiroPOO\obj\Debug\netcoreapp3.1\PrimeiroPOO.csprojAssemblyReference.cache
+I:\Users\Makoto-dev\Documents\GitHub\PrimeiroPOO\obj\Debug\netcoreapp3.1\PrimeiroPOO.AssemblyInfoInputs.cache
+I:\Users\Makoto-dev\Documents\GitHub\PrimeiroPOO\obj\Debug\netcoreapp3.1\PrimeiroPOO.AssemblyInfo.cs
+I:\Users\Makoto-dev\Documents\GitHub\PrimeiroPOO\obj\Debug\netcoreapp3.1\PrimeiroPOO.csproj.CoreCompileInputs.cache
+I:\Users\Makoto-dev\Documents\GitHub\PrimeiroPOO\obj\Debug\netcoreapp3.1\PrimeiroPOO.dll
+I:\Users\Makoto-dev\Documents\GitHub\PrimeiroPOO\obj\Debug\netcoreapp3.1\PrimeiroPOO.pdb
+I:\Users\Makoto-dev\Documents\GitHub\PrimeiroPOO\obj\Debug\netcoreapp3.1\PrimeiroPOO.genruntimeconfig.cache
